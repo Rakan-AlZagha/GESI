@@ -39,15 +39,16 @@ With the emergence of platforms such as Amazon Alexa and Google Home that allow 
 Imagine you, a proud owner of this product (GESI), are coming home from work and with the gesture of your hand you can open your car garage. Right when you enter the house, you decide to turn on the lights with another gesture. Say you are feeling cold on a cold fall evening, with one gesture you can control your thermostat without the click of a button. Music? Pre-programmable gestures to access your favorite playlists and automatically play on your bluetooth speaker via Alexa. Bedtime? One gesture to power off your room lights, close your motorized curtains, and turn off your TV with a specified night mode gesture-motion. The possibilities are simply endless. This product would enable users to access another dimension of user-interaction with systems. 
 
 ## Methodology 
-
+### Diagram of technical process
 ![Untitled document (1)](https://user-images.githubusercontent.com/56772433/166869948-7922f56f-cde4-41a3-a288-9ec0b70636d7.png)
 
-MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. It is used here to extract the most important nodes on the palm and fingers to train the gesture-recognition algorithm. 
+MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. It is used here to extract the most important nodes on the palm and fingers to train the gesture-recognition algorithm and later test the unknown gestures coming from the user. 
 
-VoiceMonkey allows you to trigger Alexa routines externally from services such as IFTTT and Home Assistant and offers dynamic text-to-speech (TTS) capabilities. Essentially, we can use Alexa without speaking. It is as simple as creating a "Monkey", creating an Alexa routine, and then triggering it from the testing script (pair gesture to command).
+VoiceMonkey allows you to trigger Alexa routines externally from services such as IFTTT and Home Assistant and offers dynamic text-to-speech (TTS) capabilities. Essentially, we can use Alexa without speaking. It is as simple as creating a "Monkey", creating an Alexa routine to pair the monkey with Alexa's functionality, and then triggering it from the testing script (pair gesture to command).
 
 For more information regarding MediaPipe and VoiceMonkey:
 https://google.github.io/mediapipe/solutions/hands.html
+
 https://voicemonkey.io/
 
 ## Final Product
@@ -106,6 +107,7 @@ Budget = ~$50
 - Expanding to different smart-home interfaces (Google Home & HomePod)
 - Improve comfort of glasses and make design sleeker
 
+### Please email alzagharakan@gmail.com with any questions, ideas, or comments.
 
 
 
