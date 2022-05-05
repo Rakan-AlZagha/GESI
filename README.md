@@ -52,7 +52,11 @@ https://google.github.io/mediapipe/solutions/hands.html
 https://voicemonkey.io/
 
 ## Final Product
+### Glasses
+![image](https://user-images.githubusercontent.com/56772433/166872523-e2d59323-f63a-495b-a239-a1b01f4f47da.png)
+![image](https://user-images.githubusercontent.com/56772433/166872605-cad3b2f9-a659-4340-b80a-7ec320c98b9f.png)
 
+### Glasses with battery and ESP-EYE mounted
 ![IMG_9500 (2)](https://user-images.githubusercontent.com/56772433/166869996-23a053e5-e546-4f5e-8c97-97712a92d2fd.JPG)
 
 ### Smart Home Mode
