@@ -40,7 +40,7 @@ Imagine you, a proud owner of this product (GESI), are coming home from work and
 
 ## Methodology 
 ### Diagram of technical process
-![Untitled document (1)](https://user-images.githubusercontent.com/56772433/166869948-7922f56f-cde4-41a3-a288-9ec0b70636d7.png)
+![final-diag](https://user-images.githubusercontent.com/56772433/166872247-c94d92d8-1087-4272-9854-899e629259da.png)
 
 MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. It is used here to extract the most important nodes on the palm and fingers to train the gesture-recognition algorithm and later test the unknown gestures coming from the user. 
 
