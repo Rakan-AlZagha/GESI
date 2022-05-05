@@ -36,12 +36,35 @@ With the emergence of platforms such as Amazon Alexa and Google Home that allow 
 
 Imagine you, a proud owner of this product (GESI), are coming home from work and with the gesture of your hand you can open your car garage. Right when you enter the house, you decide to turn on the lights with another gesture. Say you are feeling cold on a cold fall evening, with one gesture you can control your thermostat without the click of a button. Music? Pre-programmable gestures to access your favorite playlists and automatically play on your bluetooth speaker via Alexa. Bedtime? One gesture to power off your room lights, close your motorized curtains, and turn off your TV with a specified night mode gesture-motion. The possibilities are simply endless. This product would enable users to access another dimension of user-interaction with systems. 
 
+## Methodology 
+
+![Untitled document (1)](https://user-images.githubusercontent.com/56772433/166869948-7922f56f-cde4-41a3-a288-9ec0b70636d7.png)
+
+For more information regarding MediaPipe and VoiceMonkey:
+
+
+## Final Product
+
+![IMG_9500 (2)](https://user-images.githubusercontent.com/56772433/166869996-23a053e5-e546-4f5e-8c97-97712a92d2fd.JPG)
+
+### Smart Home Mode
+
+### Presentation Mode
+
+### Music Mode
+
+
 ## Special considerations
-Learning: all of these resources available publicly
+Learning: 
+
 OpenCV course (LinkedIn Learning)
+
 Object-detection course
+
 Microcontroller and Arduino course
+
 General IoT course
+
 Web app tutorial (time-permitting)
 
 ### Special Equipment: 
