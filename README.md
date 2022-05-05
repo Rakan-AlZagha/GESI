@@ -3,7 +3,9 @@
 ![Wide](https://user-images.githubusercontent.com/56772433/166868257-141398ff-e997-40f7-a708-0f5f75153c0c.png)
 
 ## Introduction
-This project was created as part of the Trinity College (Hartford, CT) 
+This project was created as part of the Department of Computer Science, Trinity College (Hartford, CT), Senior Capstone project. I was advised by Dr. Maminur Islam both semesters. 
+
+You will find all files: training and testing scripts, 3D STL designs, presentation and poster, and the code for the ESP-EYE live stream here.
 
 ## Abstract
 Gesture Enabled System Interaction (GESI) is a project that enables users to interact effectively
@@ -40,7 +42,9 @@ Imagine you, a proud owner of this product (GESI), are coming home from work and
 
 ![Untitled document (1)](https://user-images.githubusercontent.com/56772433/166869948-7922f56f-cde4-41a3-a288-9ec0b70636d7.png)
 
-MediaPipe 
+MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. It is used here to extract the most important nodes on the palm and fingers to train the gesture-recognition algorithm. 
+
+VoiceMonkey allows you to trigger Alexa routines externally from services such as IFTTT and Home Assistant and offers dynamic text-to-speech (TTS) capabilities. Essentially, we can use Alexa without speaking. It is as simple as creating a "Monkey", creating an Alexa routine, and then triggering it from the testing script (pair gesture to command).
 
 For more information regarding MediaPipe and VoiceMonkey:
 https://google.github.io/mediapipe/solutions/hands.html
@@ -66,7 +70,6 @@ https://user-images.githubusercontent.com/56772433/166870836-4533b042-be06-4260-
 https://user-images.githubusercontent.com/56772433/166870812-0328952b-4d6f-45e7-8189-26ac06d0df64.mp4
 
 
-
 ## Special considerations
 Learning: 
 
@@ -79,6 +82,8 @@ Microcontroller and Arduino course
 General IoT course
 
 MediaPipe
+
+VoiceMonkey
 
 ### Special Equipment: 
 ESP Eye Microcontroller - 
@@ -94,7 +99,12 @@ CAD designed glasses for microcontroller (can use local library 3D printer for f
 
 Budget = ~$50
 
-
+## Future Directions
+- Improve gesture-recognition algorithm in different conditions
+- Train on different hand sizes for more accurate predictions
+- Develop a user-oriented method of pairing gestures to commands via a web or iOS application
+- Expanding to different smart-home interfaces (Google Home & HomePod)
+- Improve comfort of glasses and make design sleeker
 
 
 
