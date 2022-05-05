@@ -40,18 +40,31 @@ Imagine you, a proud owner of this product (GESI), are coming home from work and
 
 ![Untitled document (1)](https://user-images.githubusercontent.com/56772433/166869948-7922f56f-cde4-41a3-a288-9ec0b70636d7.png)
 
-For more information regarding MediaPipe and VoiceMonkey:
+MediaPipe 
 
+For more information regarding MediaPipe and VoiceMonkey:
+https://google.github.io/mediapipe/solutions/hands.html
+https://voicemonkey.io/
 
 ## Final Product
 
 ![IMG_9500 (2)](https://user-images.githubusercontent.com/56772433/166869996-23a053e5-e546-4f5e-8c97-97712a92d2fd.JPG)
 
 ### Smart Home Mode
+https://user-images.githubusercontent.com/56772433/166870876-bbc511b6-0143-480e-b7a3-64f70b14b61e.mp4
+
+https://user-images.githubusercontent.com/56772433/166870782-8f62e7c0-6f62-45b8-8c57-db330b099c72.mp4
+
 
 ### Presentation Mode
 
+https://user-images.githubusercontent.com/56772433/166870836-4533b042-be06-4260-839d-aab758ede73c.mp4
+
+
 ### Music Mode
+
+https://user-images.githubusercontent.com/56772433/166870812-0328952b-4d6f-45e7-8189-26ac06d0df64.mp4
+
 
 
 ## Special considerations
@@ -65,7 +78,7 @@ Microcontroller and Arduino course
 
 General IoT course
 
-Web app tutorial (time-permitting)
+MediaPipe
 
 ### Special Equipment: 
 ESP Eye Microcontroller - 
