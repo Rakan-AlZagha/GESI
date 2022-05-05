@@ -73,18 +73,12 @@ https://user-images.githubusercontent.com/56772433/166870812-0328952b-4d6f-45e7-
 
 ## Special considerations
 Learning: 
-
-OpenCV course (LinkedIn Learning)
-
-Object-detection course
-
-Microcontroller and Arduino course
-
-General IoT course
-
-MediaPipe
-
-VoiceMonkey
+- OpenCV course (LinkedIn Learning)
+- Object-detection course
+- Microcontroller and Arduino course
+- General IoT course
+- MediaPipe
+- VoiceMonkey
 
 ### Special Equipment: 
 ESP Eye Microcontroller - 
